@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCornand
 - 👀 I’m a sunday handyman, i know how to c/c++ and pyhton and Linux !!.
-- 🌱 I’m currently learning Networks, system(UNXI), Docker and 
+- 🌱 I’m currently learning Networks, system(UNIX), Docker 
 - 💞️ I’m Working at an enterprise as a DBA.
 - 📫 How to reach me @Ayzzeur on twitter !!
 
