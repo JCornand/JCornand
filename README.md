@@ -14,7 +14,9 @@
 JCornand/JCornand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 --------------------
+
 ### Profiles
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ayzzeur.png" alt="TryHackMe"> 
@@ -23,7 +25,9 @@ You can click the Preview link to take a look at your changes.
   <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/door.png"> <span class="mr-1">= Rooms Completed</span>
   <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/target.png"> <span class="mr-1">= Badges Earned</span>       |  Lien vers mon profil : https://tryhackme.com/p/Ayzzeur
 </div>
+
 --------------------
+
 ### Stats
 
 <br/>
