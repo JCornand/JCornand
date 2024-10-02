@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCornand
-- 👀 I’m a sunday handyman, i know how to c/c++ and python and Linux !!.
+- 👀 I’m a sunday handyman, i know how to c/c++ and python + Linux !!
 - 🌱 I’m currently learning Networks, system(UNIX), Docker 
-- 💞️ I’m Working at an enterprise as a DBA.
+- 💞️ I’m Working at an enterprise as a Cybersecurity Engineer.
 - 📫 How to reach me @Ayzzeur on twitter !!
 
 <!---
