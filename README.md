@@ -1,3 +1,8 @@
+<h2 align="center">👋 Hi!</h2>
+<p align="center">
+  <a href="https://a-cup-of.coffee">Blog</a> •
+  <a href="https://twitter.com/thebidouilleur">Twitter</a>
+</p>
 - 👋 Hi, I’m @JCornand
 - 👀 I’m a sunday handyman, i know how to c/c++ and python + Linux !!
 - 🌱 I’m currently learning Cybersecurity, more about me https://veillecyber-ayzzeur.pages.dev/about/ 
