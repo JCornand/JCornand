@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Profiles
 
-<script src="https://tryhackme.com/badge/2561946"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ayzzeur.png" alt="TryHackMe">
 <div style="float:left; width: 100%; opacity: 0.7;">
   <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/trophy.png"> <span class="mr-1">= Rank</span>
