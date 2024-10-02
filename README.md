@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <div style="float:left; width: 100%; opacity: 0.7;">
   <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/trophy.png"> <span class="mr-1">= Rank</span>
   <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/door.png"> <span class="mr-1">= Rooms Completed</span>
-  <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/target.png"> <span class="mr-1">= Badges Earned</span>       |  Lien vers mon profil:https://tryhackme.com/p/Ayzzeur
+  <img style="height: 16px" src="https://assets.tryhackme.com/img/badges/target.png"> <span class="mr-1">= Badges Earned</span>       |  Lien vers mon profil : https://tryhackme.com/p/Ayzzeur
 </div>
 
 ### Stats
