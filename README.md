@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi!</h2>
 <p align="center">
-  <a href="https://[VeilleCyber Ayzzeur](https://veillecyber-ayzzeur.pages.dev/)">Blog</a> •
+  <a href="https://veillecyber-ayzzeur.pages.dev/">Blog</a> •
   <a href="https://twitter.com/Ayzzeur">Twitter</a>
 </p>
 
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <p align="left">
-  <a href="https://une-tasse-de.cafe/">
+  <a href="https://veillecyber-ayzzeur.pages.dev/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jcornand&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
   </a>
