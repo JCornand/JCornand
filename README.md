@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi!</h2>
 <p align="center">
-  <a href="https://a-cup-of.coffee">Blog</a> •
-  <a href="https://twitter.com/thebidouilleur">Twitter</a>
+  <a href="https://[VeilleCyber Ayzzeur](https://veillecyber-ayzzeur.pages.dev/)">Blog</a> •
+  <a href="https://twitter.com/Ayzzeur">Twitter</a>
 </p>
 - 👋 Hi, I’m @JCornand
 - 👀 I’m a sunday handyman, i know how to c/c++ and python + Linux !!
