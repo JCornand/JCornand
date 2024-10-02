@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCornand
 - 👀 I’m a sunday handyman, i know how to c/c++ and python + Linux !!
-- 🌱 I’m currently learning Networks, system(UNIX), Docker 
+- 🌱 I’m currently learning Cybersecurity, more about me https://veillecyber-ayzzeur.pages.dev/about/ 
 - 💞️ I’m Working at an enterprise as a Cybersecurity Engineer.
 - 📫 How to reach me @Ayzzeur on twitter !!
 
