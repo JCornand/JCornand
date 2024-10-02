@@ -15,9 +15,7 @@ JCornand/JCornand is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ### Profiles
-<br/>
-
-<br>
+<code class="mb-2" id="thm_badge_script">&lt;script src="https://tryhackme.com/badge/2561946"&gt;&lt;/script&gt;</code>
 <script src="https://tryhackme.com/badge/2561946"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ayzzeur.png" alt="TryHackMe">
 <div style="float:left; width: 100%; opacity: 0.7;">
