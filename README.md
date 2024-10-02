@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @JCornand
 - 👀 I’m a sunday handyman, i know how to c/c++ and python + Linux !!
 - 🌱 I’m currently learning Cybersecurity, more about me https://veillecyber-ayzzeur.pages.dev/about/ 
-- 💞️ I’m Working at Somei SA as a Cybersecurity Engineer.
+- 💞️ I’m Working at Somei as a Cybersecurity Engineer.
 - 📫 How to reach me @Ayzzeur on twitter !!
 
 <!---
