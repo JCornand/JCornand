@@ -15,7 +15,8 @@ JCornand/JCornand is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ### Profiles
-<script src="https://tryhackme.com/badge/2561946"></script> ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+<script src="https://tryhackme.com/badge/2561946"></script> 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Stats
 
