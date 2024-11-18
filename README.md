@@ -43,4 +43,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app/?username=jcornand&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
 </p>
 
-![stats](github-metrics.svg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCornand&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
