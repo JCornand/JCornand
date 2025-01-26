@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi!</h2>
 <p align="center">
-  <a href="https://veillecyber-ayzzeur.pages.dev/">Blog</a> •
+  <a href="https://veillecyber-ayzzeurv2.pages.dev/">Blog</a> •
   <a href="https://twitter.com/Ayzzeur">Twitter</a>
 </p>
 
